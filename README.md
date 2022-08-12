@@ -1,0 +1,4 @@
+- 👋olámeu nome é @porfirio2007
+- 👀 meu email de contato é rosenilda.porfirio@escola.pr.gov.br
+-Eu estou interressado em aprender a programar novas linguagens
+- 💞️Eu estou aprendendo a programar rcentemente a linguagem de JavaScript e scratch
